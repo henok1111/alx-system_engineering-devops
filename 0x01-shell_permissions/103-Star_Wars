@@ -1,0 +1,3 @@
+#!/bin/bash
+telnet towl.blinkenlights.n1
+
